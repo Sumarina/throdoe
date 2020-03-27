@@ -2,7 +2,7 @@
 title: 我的slider组件
 toc: true
 comments: true
-copyright: ture
+copyright: true
 date: 2018-10-10 17:40:03
 tags: ['vue','组件']
 categories: "程序员"

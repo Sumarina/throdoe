@@ -2,7 +2,7 @@
 title: 关于JavaScript类型转化
 toc: true
 comments: true
-copyright: ture
+copyright: true
 date: 2018-11-13 10:47:44
 tags: ['javascript']
 categories: "程序员"

@@ -2,7 +2,7 @@
 title: 理解Symbol类型
 toc: true
 comments: true
-copyright: ture
+copyright: true
 date: 2018-12-10 18:16:58
 tags: ['javascript']
 categories: "程序员"

@@ -2,7 +2,7 @@
 title: nodejs从入门到放弃（二）
 toc: true
 comments: true
-copyright: ture
+copyright: true
 date: 2018-12-18 16:22:33
 tags: ["nodejs"]
 categories: "程序员"
